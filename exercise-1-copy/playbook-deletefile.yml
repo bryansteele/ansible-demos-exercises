@@ -1,0 +1,10 @@
+-
+  name: Delete file on target servers
+  hosts: all
+  tasks:
+    - name: Ansible delete file example
+      file:
+        path: /tmp/test-file.txt
+        state: absent
+
+   
