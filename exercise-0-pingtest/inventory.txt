@@ -1,2 +1,4 @@
-target1 ansible_host=172.16.1.28 ansible_ssh_pass=osboxes.org
-target2 ansible_host=172.16.1.45 ansible_ssh_pass=osboxes.org
+target1 ansible_host=172.16.1.42 ansible_ssh_pass=Essayons44..,,
+target2 ansible_host=172.16.1.49 ansible_ssh_pass=Essayons44..,,
+target3 ansible_host=172.16.1.25 ansible_ssh_pass=Essayons44..,,
+target4 ansible_host=172.16.1.19 ansible_ssh_pass=Essayons44..,,
