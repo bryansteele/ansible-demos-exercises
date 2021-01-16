@@ -1,2 +1,2 @@
-# ansible-demos-exercises
-ansible demos
+# ansible-exercises
+ansible examples
